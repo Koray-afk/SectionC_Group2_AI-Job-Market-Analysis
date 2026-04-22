@@ -1,10 +1,11 @@
-Project Overview
+Project Overview:
+
 This project provides a comprehensive analysis of Artificial Intelligence's transformative impact on the global job market. Through advanced data analytics and visualization, we explore how AI is reshaping employment patterns, salary structures, automation risks, and workforce composition across industries.
 
 Goal: Deliver actionable insights to help organizations and professionals navigate the AI-driven employment landscape.
 
 Problem Statement
-The rapid adoption of AI technology is fundamentally transforming work. Organizations and professionals face critical challenges:
+"The rapid adoption of AI technology is fundamentally transforming work. Organizations and professionals face critical challenges:"
 
 1.Identifying high-growth roles in an AI-driven economy
 2.Understanding salary drivers for AI-influenced positions
@@ -31,8 +32,6 @@ Key Features:
  Remote Work Ratio - Percentage
  
 🗂️ Project Structure
-text
-
 AI_Job_Trends_Analysis/
 │
 ├── 📄 README.md                          # Project documentation
@@ -66,7 +65,9 @@ AI_Job_Trends_Analysis/
 └── 📚 docs/
     ├── data_dictionary.md               # Feature descriptions
     └── methodology.md                   # Analysis approach
-🔬 Methodology
+
+
+METHODOLOGY:
 1️⃣ Data Extraction
  Dataset loaded using Pandas
  Initial schema inspection
